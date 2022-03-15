@@ -39,13 +39,13 @@ ul {
         cursor: pointer;
         color: white;
         font-weight: bold;}
-        #section {border: 1px solid blue;
+        #section {border: 1px solid grey;
         vertical-align: middle;
-        background-color: blue;
+        background-color: transparent;
         border-radius: 10px;      
         padding: 7px;
         cursor: pointer;
-        color: white;
+        color: grey;
         font-weight: bold;
     }
     #lista {border-top: 1px solid aliceblue;
